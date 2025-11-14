@@ -1,0 +1,10 @@
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/ProductServiceApplication.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/client/User.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/client/UserClient.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/config/AppConfig.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/controller/ProductController.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/dto/Product.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/entity/ProductEntity.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/mapper/ProductMapper.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/repository/ProductRepository.java
+/Users/jgomez/git_codigo/m6-sbp-c05-micro-product-service/src/main/java/com/tecsup/app/micro/product/service/ProductService.java

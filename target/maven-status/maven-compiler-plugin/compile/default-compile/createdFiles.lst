@@ -1,0 +1,12 @@
+com/tecsup/app/micro/product/service/ProductService.class
+com/tecsup/app/micro/product/ProductServiceApplication.class
+com/tecsup/app/micro/product/controller/ProductController.class
+com/tecsup/app/micro/product/mapper/ProductMapper.class
+com/tecsup/app/micro/product/dto/Product.class
+com/tecsup/app/micro/product/mapper/ProductMapperImpl.class
+com/tecsup/app/micro/product/client/UserClient.class
+com/tecsup/app/micro/product/client/User$UserBuilder.class
+com/tecsup/app/micro/product/client/User.class
+com/tecsup/app/micro/product/config/AppConfig.class
+com/tecsup/app/micro/product/entity/ProductEntity.class
+com/tecsup/app/micro/product/repository/ProductRepository.class
