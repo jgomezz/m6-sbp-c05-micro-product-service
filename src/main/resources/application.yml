@@ -3,7 +3,7 @@ server:
 
 spring:
   profiles:
-    active: dev
+    active: h2
 
   application:
     name: product-service
